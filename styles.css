@@ -1,1 +1,91 @@
 /*  your css code here. If applicable */
+.container{
+	height:800px;
+	border:2px solid black;
+	display:flex;
+	
+      min-height: 100vh;
+      background-color: #f5f5f5;
+	flex-direction:column
+	}
+#first{ margin:4px;
+	 height:30px
+	   
+	   
+	
+}
+h2{
+	margin:0px;
+}
+
+header{height:2px;
+	text-align:center;
+	background: #011e29;
+    color: #fff;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	border-radius:5px;
+	margin:0px;
+	height:30px;
+	   padding:0px;
+	   
+}
+#second{
+	display:flex;
+}
+#news{
+	display:flex;
+	flex-direction:column;
+	width:400px;
+	margin:4px;
+	background: linear-gradient(135deg, #ff9d6c, #ff6c8c);
+    color: #fff;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	border-radius:5px;
+	align-items: center;
+	
+}
+#use{
+	
+	margin-bottom:0px;
+}
+ul{
+	
+	padding:0px;
+}
+#Pictorial{
+	display:flex;
+	flex-direction:column;
+	width:400px;
+	margin:4px;
+	background: linear-gradient(135deg, #ff9d6c, #ff6c8c);
+    color: #fff;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	border-radius:5px;
+	align-items: center;
+}
+#img{
+	margin:4px;
+	align-item:center
+}
+img{
+	border-radius:5px;
+}
+#main{
+	display:flex;
+	flex-direction:column;
+	width:400px;
+	margin:4px;
+	background: linear-gradient(135deg, #ff9d6c, #ff6c8c);
+    color: #fff;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+	border-radius:5px;
+	align-items: center;
+	
+}
+p{
+	margin:0px;
+	text-align:center;
+}
+
+
+
