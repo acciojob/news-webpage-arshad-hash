@@ -29,7 +29,7 @@ header{height:2px;
 	   padding:0px;
 	   
 }
-#second{
+.latest-news-section{
 	display:flex;
 }
 #news{
@@ -52,7 +52,7 @@ ul{
 	
 	padding:0px;
 }
-#Pictorial_news{
+.Pictorial-news-section{
 	display:flex;
 	flex-direction:column;
 	width:400px;
